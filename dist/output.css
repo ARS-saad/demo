@@ -534,46 +534,8 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.absolute {
-  position: absolute;
-}
-
-.inset-y-0 {
-  top: 0px;
-  bottom: 0px;
-}
-
-.inset-y-2 {
-  top: 0.5rem;
-  bottom: 0.5rem;
-}
-
-.end-0 {
-  inset-inline-end: 0px;
-}
-
-.right-0 {
-  right: 0px;
-}
-
-.right-10 {
-  right: 2.5rem;
-}
-
-.right-1 {
-  right: 0.25rem;
-}
-
-.m-10 {
-  margin: 2.5rem;
-}
-
 .m-5 {
   margin: 1.25rem;
-}
-
-.mr-auto {
-  margin-right: auto;
 }
 
 .flex {
@@ -586,18 +548,6 @@ video {
 
 .basis-1\/2 {
   flex-basis: 50%;
-}
-
-.basis-1\/3 {
-  flex-basis: 33.333333%;
-}
-
-.basis-1\/4 {
-  flex-basis: 25%;
-}
-
-.basis-1 {
-  flex-basis: 0.25rem;
 }
 
 .flex-row {
